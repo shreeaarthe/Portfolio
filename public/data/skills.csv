@@ -1,0 +1,6 @@
+Category,Skills
+Languages,"Python, SQL, C"
+GenAI & LLMs,"LangChain, LangGraph, RAG, Agents, OpenAI/LLMs, Vector Databases, LangSmith, Streamlit"
+Techstack Frameworks,"TensorFlow, Scikit-learn, TesseractOCR, PaddleOCR"
+Tools and Platforms,"Git/GitHub, GitLab CI/CD, Linux, VS Code, Google Colab, Groq, Ollama"
+Cloud/DevOps," AWS S3,AWS EC2,AWS Lambda, Docker, Kubernetes, Azure DevOps "
