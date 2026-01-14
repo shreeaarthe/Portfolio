@@ -26,7 +26,7 @@ const Navbar = () => {
   return (
     <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
       <div className="container nav-container">
-        <a href="#home" className="logo">Thilak<span className="logo-dot">.</span></a>
+        <a href="#home" className="logo">Aarthe<span className="logo-dot">.</span></a>
 
         <div className="desktop-menu">
           {navLinks.map((link) => (
@@ -38,7 +38,7 @@ const Navbar = () => {
 
         <div className="nav-actions">
 
-          <a href="/data/resume/resume.pdf" download className="btn-resume">
+          <a href="/data/resume/Aarthe_Resume.pdf" download className="btn-resume">
             <span className="icon">↓</span> Resume
           </a>
         </div>
