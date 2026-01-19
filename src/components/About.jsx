@@ -5,7 +5,7 @@ const About = ({ details }) => {
   const bio = getDetail('Bio');
 
   const stats = [
-    { value: "9.06", suffix: "/10", label: "CGPA in B.Tech" },
+    { value: "8.69", suffix: "/10", label: "CGPA in B.Tech" },
     // { value: "25%", label: "ML Accuracy Boost" },
     // { value: "95%", label: "OCR Pipeline Accuracy" },
     { value: "1+", label: "Years Experience" }

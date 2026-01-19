@@ -1,6 +1,6 @@
 Category,Skills
 Languages,"Python, SQL, C, Java, Go"
-GenAI & LLMs,"LangChain, LangGraph, RAG, RAGAS, Agents, OpenAI/LLMs, Vector Databases, LangSmith, Streamlit"
+GenAI & LLMs,"LangChain, LangGraph, RAG, RAGAS, Graphiti, Agents, OpenAI/LLMs, Vector Databases, LangSmith, Streamlit"
 Techstack Frameworks,"TensorFlow, Scikit-learn, PyTorch, Pandas"
 Tools and Platforms,"Git/GitHub, GitLab CI/CD, Linux, ServiceNow, VS Code, Google Colab, Groq, Ollama"
 Cloud/DevOps," AWS S3,AWS EC2,AWS Lambda, Azure DevOps"
